@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alex
+### Hi there 👋, my name is Alexander
 #### I am 
 Skills: 
 
