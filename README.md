@@ -1,7 +1,1 @@
-### Hi there 👋, my name is Alexander 
-#### I am student 
-Skills: python 
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=700&color=5923F7&background=17171700&multiline=true&width=900&height=300&lines=Hi+everyone;My+name+is+Alexander%2C+and+my+nickname+is+Parsik1;I+am+an+aspiring+Python+developer)](https://git.io/typing-svg)
