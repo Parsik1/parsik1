@@ -31,8 +31,8 @@
 <p align="left">
   <a href="https://t.me/a1exmironov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="27" />
-  </a>
-  <a href="mailto:1rou163@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1rou163@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
+</a>
   </a>
 </p>
